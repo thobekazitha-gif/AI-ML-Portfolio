@@ -46,17 +46,12 @@ Project management | Digital marketing | Problem-solving | Creative thinking
 📊 Built a visually engaging dashboard using real datasets.  
 **Skills showcased:** Data cleaning, analysis, visualization, decision-making insights.  
 **Live Demo:** [View Dashboard](#) *(replace # with live link)*  
-
-![Dashboard Screenshot](#) *(replace # with screenshot/GIF link)*  
-
 ---
 
 ### **2. AI Predictive Maintenance Tool (Live Demo)**
 ⚙️ Predictive system designed to forecast equipment failures and optimize maintenance schedules.  
 **Stack:** Python | Flask | Machine Learning | Figma  
 **Live Demo:** [View Tool](https://crow-flask-51049066.figma.site/)  
-
-![Predictive Tool Screenshot](#) *(replace # with screenshot/GIF link)*  
 
 ---
 
@@ -65,8 +60,6 @@ Project management | Digital marketing | Problem-solving | Creative thinking
 **Stack:** JavaScript | HTML | CSS | Netlify  
 **Live Demo:** [View Builder](https://logic-league-one.vercel.app/)  
 
-![Resume Builder Screenshot](#) *(replace # with screenshot/GIF link)*  
-
 ---
 
 ### **4. Sentiment Analyzer (Live Demo)**
@@ -74,16 +67,12 @@ Project management | Digital marketing | Problem-solving | Creative thinking
 **Stack:** Python | NLP | Machine Learning  
 **Live Demo:** [View Analyzer](https://c0qai4ygity3.trickle.host)  
 
-![Sentiment Analyzer Screenshot](#) *(replace # with screenshot/GIF link)*  
-
 ---
 
 ### **5. GradJob Application (Live Demo)**
 🎯 Platform connecting graduates with career opportunities.  
 **Stack:** JavaScript | HTML | CSS | Vercel  
 **Live Demo:** [View GradJob](https://grad-job-application.vercel.app/)  
-
-![GradJob Screenshot](#) *(replace # with screenshot/GIF link)*  
 
 ---
 
@@ -107,11 +96,3 @@ Project management | Digital marketing | Problem-solving | Creative thinking
 This portfolio highlights my **technical skills, digital product creation, and data-driven solutions**.  
 Each project demonstrates my ability to **solve real-world problems with creativity, precision, and impact**.  
 
----
-
-### Optional GitHub Badges for Skills
-
-```markdown
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
