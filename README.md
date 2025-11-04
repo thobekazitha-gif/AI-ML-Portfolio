@@ -1,7 +1,8 @@
-🚀 Thobeka Zitha – Portfolio
+🌟 THOBEKA ZITHA – PORTFOLIO
 👋 About Me
 
 Hi, I’m Thobeka Zitha – an AI & Machine Learning enthusiast and aspiring Full Stack Developer.
+
 I’m passionate about building intelligent, data-driven solutions that empower people and businesses.
 I enjoy creating digital products, interactive dashboards, and web solutions that are both functional and visually appealing.
 
