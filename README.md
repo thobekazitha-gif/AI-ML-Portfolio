@@ -1,58 +1,79 @@
-# 🌟 The Data Storytelling Experience  
-**By Thobeka Zitha — AI & Machine Learning Enthusiast**  
-Building intelligent, data-driven solutions that empower people and businesses.
+About Me
 
----
+Hi, I’m Thobeka Zitha. I’m an AI & Machine Learning enthusiast and aspiring Full Stack Developer. I’m passionate about building intelligent, data-driven solutions that empower people and businesses. I enjoy creating digital products, interactive dashboards, and web solutions that are both functional and visually appealing.
 
-## 📖 Overview  
-**The Data Storytelling Experience** is a dynamic **React SPA (Single Page Application)** designed to merge **artificial intelligence, 3D visualization, and storytelling** into one immersive experience.  
-The project transforms data into interactive stories — where each book holds insight, emotion, and interactivity.  
+Skills
 
----
+Programming & Development: Java, Python, HTML, CSS, JavaScript
 
-## 🎯 Project Goals  
-- Create a **cinematic storytelling interface** with 3D and animation effects.  
-- Enable **interactive “Books”, “Insights”, and “About”** sections.  
-- Integrate **AI-generated audio narration** (via ElevenLabs or Google Cloud TTS).  
-- Build a responsive, modern portfolio project for AI & ML showcase.  
-- Document the project professionally for CAPACITI’s capstone submission.  
+Web Development: Front-end & back-end development, responsive design
 
----
+Data & Analytics: Data visualization, dashboard creation, data storytelling
 
-## 🧩 Features  
-### 🏠 Home  
-- Pixar-style **animated intro** for “Storytelling”.  
-- 3D visuals with cinematic bloom, depth of field, and smooth transitions.  
+Tools & Platforms: Figma, Canva, GitHub, Oracle VirtualBox, Napkin AI, Builder.io
 
-### 📚 Books  
-- Interactive 3D **Books Carousel**.  
-- Upload and edit book covers.  
-- Inline title and description editing.  
-- Modal preview with audio narration.  
-- LocalStorage-backed data persistence.
+Other Skills: Project management, digital marketing, problem-solving, creative thinking
 
-### 📊 Insights  
-- Interactive 3D **Reading Trends Dashboard** using `@react-three/fiber` and `drei`.  
-- Storytelling Network visualization powered by `postprocessing` and D3.js.  
-- Real-time insights on reading patterns, genres, and story connections.  
+Education & Certifications
 
-### 💡 About  
-- Describes the purpose and vision of *The Storytelling Experience*.  
-- Showcases the mission: **“Turning data into emotion through technology.”**  
-- Cinematic scrolling layout with text motion and ambient lighting effects.
+Higher Certificate in Information Technology(Software Engineering) – Completed 2025
 
----
+Coursera Professional Development Certificates:
 
-## 🧠 Tech Stack  
-| Category | Tools / Frameworks |
-|-----------|--------------------|
-| **Frontend** | React (Vite), TypeScript, TailwindCSS |
-| **3D & Animation** | @react-three/fiber, drei, postprocessing |
-| **State & Storage** | Context API, LocalStorage |
-| **Audio Narration** | ElevenLabs API / Google Cloud TTS |
-| **Deployment** | Vercel |
-| **Version Control** | Git & GitHub |
+Capaciti Tech Career Accelerator — AI & Machine Learning Stream
+Completed: 2025
 
----
+Coursera: Professional Development Certificate
+Completed: October 2025
 
-## ⚙️ Project Structure
+
+Portfolio Projects
+1. Interactive Data Analytics Dashboard
+
+Built a visually engaging dashboard using real datasets.
+
+Showcases my ability to clean, analyze, and present data for decision-making.
+
+2. AI Predictive Maintenance Tool[(Live Demo)](https://crow-flask-51049066.figma.site/ )
+AI Predictive Maintenance Tool – Week 2
+
+Predictive system designed to forecast equipment failures and optimize maintenance schedules.
+
+Stack: Python, Flask, Machine Learning, Figma
+
+4. Logic League Resume Builder[(Live Demo)](https://logic-league-one.vercel.app/) 
+   
+User-friendly tool for creating professional, ATS-optimized resumes.
+
+Stack: JavaScript, HTML, CSS, Netlify
+
+5. Sentiment Analyzer[(Live Demo)](https://c0qai4ygity3.trickle.host)
+
+Natural language processing tool that analyzes text sentiment and emotional tone.
+
+Stack: Python, NLP, Machine Learning
+
+6. GradJob Application [(Live Demo )](https://grad-job-application.vercel.app/)
+
+Job application platform connecting graduates with career opportunities.
+
+Stack: JavaScript, HTML, CSS, Vercel
+
+
+Career Goals
+
+Short-term: Gain professional experience in IT, software engineering, and digital solutions.
+
+Long-term: Become a Full Stack Developer and entrepreneur, creating digital tools and solutions for businesses and individuals.
+
+How to Reach Me
+
+Email: thobekazitha40@gmail.com
+
+Portfolio: [(Portfolio Link)](https://thobekazitha-engj1u2.gamma.site/)
+
+LinkedIn: [(LinkedIn Link)](https://www.linkedin.com/in/thobeka-zitha/)
+
+Notes
+
+This portfolio highlights my technical skills, digital product creation, and data-driven solutions. Projects are aimed at demonstrating my ability to solve real-world problems with creativity, precision, and impact.
